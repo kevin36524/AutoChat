@@ -34,15 +34,14 @@ The following **optional** features are implemented:
 
 ## References
 
-Make a Chat Client (maybe using firebase)
-Firebase CodeLabs :-
-[Codelab Android](https://codelabs.developers.google.com/codelabs/firebase-android/index.html?index=..%2F..%2Findex#0)
-[Codelab iOS](https://codelabs.developers.google.com/codelabs/firebase-ios-swift/index.html?index=..%2F..%2Findex#7)
+### Firebase CodeLabs :-
+* [Codelab Android](https://codelabs.developers.google.com/codelabs/firebase-android/index.html?index=..%2F..%2Findex#0)
+* [Codelab iOS](https://codelabs.developers.google.com/codelabs/firebase-ios-swift/index.html?index=..%2F..%2Findex#7)
 
--> AutoReply Resources and Links
-http://www.masswerk.at/elizabot/
-http://lauragelston.ghost.io/speakeasy/
-https://github.com/gelsto/SpeakEasy-AI
+### AutoReply Resources and Links
+* http://www.masswerk.at/elizabot/
+* http://lauragelston.ghost.io/speakeasy/
+* https://github.com/gelsto/SpeakEasy-AI
 
 
 
